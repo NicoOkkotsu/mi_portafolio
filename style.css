@@ -1,7 +1,7 @@
 /* Fondo general */
   body {
     font-family: Arial, sans-serif;
-    background-image: url('fondo.jpg'); /* <-- Asegúrate que esté en la misma carpeta */
+    background-image: url('Fondo.jpg'); /* <-- Asegúrate que esté en la misma carpeta */
     background-size: cover;
     background-repeat: no-repeat;
     background-position: center;
