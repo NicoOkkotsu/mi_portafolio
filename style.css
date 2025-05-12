@@ -1,14 +1,16 @@
 /* Fondo general */
 body {
     font-family: Arial, sans-serif;
-    background-image: url('fondo.jpg'); /* <-- Asegúrate que esté en la misma carpeta */
+    background-image: url('Fondo.jpg'); /* Nombre correcto, con mayúscula */
     background-size: cover;
     background-repeat: no-repeat;
     background-position: center;
+    background-attachment: fixed; /* Esto hace que el fondo quede fijo al hacer scroll */
     margin: 0;
     padding: 20px;
     color: #333;
 }
+
 
 /* Encabezado principal */
 header {
