@@ -30,8 +30,8 @@ body {
    /* Títulos de sección */
   section h3 {
     color: #4CAF50;
-    border-bottom: 2px solid #ccc;
-    padding-bottom: 5px;
+    border-bottom: 10px solid #ccc;
+    padding-bottom: 10px;
   }
   /* Listado de proyectos */
   u2 {
@@ -63,4 +63,3 @@ body {
         display: block;
         border: 2px solid #4CAF50;
     }
-
