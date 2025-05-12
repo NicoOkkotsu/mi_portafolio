@@ -33,6 +33,11 @@ body {
     border-bottom: 2px solid #ccc;
     padding-bottom: 5px;
   }
+  /* Listado de proyectos */
+  u2 {
+    list-style-type: square;
+    padding-left: 20px;
+  }
   
   /* Listado de proyectos */
   ul {
@@ -58,3 +63,4 @@ body {
         display: block;
         border: 2px solid #4CAF50;
     }
+
